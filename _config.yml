@@ -1,6 +1,6 @@
 name: aeropost-hello
 favicon: null
-layout_spectrum: 0.265376957366243
+layout_spectrum: 0.49514
 typography_spectrum: 0.8077132697217166
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#fcfdff'
+    - '#040500'
+    - '#779a00'
+    - '#465c1b'
+    - '#c8dd95'
   brandStrength: 0.061591545352712274
   lightness: 0.5902694573160261
   saturation: 0.32788254087790847
