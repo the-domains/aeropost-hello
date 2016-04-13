@@ -2,6 +2,7 @@ name: aeropost-hello
 favicon: null
 layout_spectrum: 0.49514
 typography_spectrum: 0.8077132697217166
+title: First site
 cta:
   domain: null
   bucket: null
